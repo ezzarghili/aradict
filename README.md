@@ -30,11 +30,11 @@ Or in a more compact way
 
 There are multiple options for accessing the data the most obvious way is cloning the repository and pull regulary to check for new translations.
 
-An other option is to check if the tranlation exist using `curl` or other cli tool
+An other option is to check if the tranlation exist using `curl` or other cli tool and as a simple api. 
 ```bash 
 curl -L --fail https://github.com/ezzarghili/aradict/raw/master/translation/sample.json
 ```
 
-This will fail if the translation file does not exist.
+This will fail if the translation file does not exist or return the tranlation data if it exists.
 
 We will be adding new dict release formats that are automatically generated from the tranlation folder once there are enough data.
