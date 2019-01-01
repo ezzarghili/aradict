@@ -38,3 +38,11 @@ curl -L --fail https://github.com/ezzarghili/aradict/raw/master/translation/samp
 This will fail if the translation file does not exist or return the tranlation data if it exists.
 
 We will be adding new dict release formats that are automatically generated from the tranlation folder once there are enough data.
+
+
+## License
+
+All code would be licensed under MIT
+
+All translations a.k.a content under translation folder will be licensed under [CC0 1.0 - التخصيص للملك العام
+](https://creativecommons.org/publicdomain/zero/1.0/) 
