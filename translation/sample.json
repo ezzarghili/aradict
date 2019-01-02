@@ -1,1 +1,9 @@
-{"s":"عينة","d":"عينتان","p":"عينات"}
+[
+	{
+		"context": "This file includes a sample of the test data",
+		"translation": "عينة",
+		"usage": "هذا الملف يحتوي على عينة من بياتات الاختبار",
+		"dual": "عينتان",
+		"plural": "عينات"
+	}
+]
